@@ -38,8 +38,6 @@
 
 👋 Join our [WeChat](https://github.com/hiyouga/llamafactory-community/blob/main/wechat/main.jpg) and [NPU](https://github.com/hiyouga/llamafactory-community/blob/main/wechat/npu.jpg) user groups.
 
-\[ English | [中文](README_zh.md) \]
-
 **Fine-tuning a large language model can be easy as...**
 
 https://github.com/user-attachments/assets/3991a3a8-4276-4d30-9cab-4cb0c4b9b99e
